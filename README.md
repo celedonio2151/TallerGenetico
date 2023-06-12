@@ -1,0 +1,2 @@
+# TallerGenetico
+Un algoritmo genetico
